@@ -9,6 +9,5 @@ print("This is the first live lab")
 
 print("let's do some math")
 
-y = 3
 
-print(3*y)
+print("making some changes")
